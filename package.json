@@ -1,10 +1,7 @@
 {
-  "name": "voxel-hello-world",
-  "version": "0.4.2",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:maxogden/voxel-hello-world.git"
-  },
+  "name": "voxel-test-playground",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
     "voxel": "0.3.1",
     "voxel-engine": "~0.16.0",
@@ -12,7 +9,8 @@
     "voxel-player": "0.1.0",
     "painterly-textures": "0.0.3",
     "toolbar": "0.0.5",
-    "extend": "1.1.3"
+    "extend": "1.1.3",
+    "voxel-fly": "~0.1.0"
   },
   "devDependencies": {
     "browserify": "1.17.3",
